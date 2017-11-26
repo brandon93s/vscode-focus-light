@@ -1,0 +1,22 @@
+{
+    "name": "focus-light",
+    "displayName": "Focus Light",
+    "description": "Syntax theme that lets you focus on the content",
+    "version": "0.0.1",
+    "publisher": "brandon93s",
+    "engines": {
+        "vscode": "^1.18.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Focus Light",
+                "uiTheme": "vs",
+                "path": "./themes/focus light-color-theme.json"
+            }
+        ]
+    }
+}
