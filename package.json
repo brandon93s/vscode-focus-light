@@ -2,8 +2,12 @@
     "name": "focus-light",
     "displayName": "Focus Light",
     "description": "Syntax theme that lets you focus on the content",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "brandon93s",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/brandon93s/vscode-focus-light"
+    },
     "engines": {
         "vscode": "^1.18.0"
     },
